@@ -37,14 +37,14 @@ On top of knowing how the _World Wide Web_ works:
 
 - **Italian**: lingua madre;
 - **Spanish**: también;
-- **English**: very fluent both written verbally (thanks to [them][smt]);
+- **English**: very fluent both written and verbally (thanks to [Morrissey][smt]);
 - **German**: bis zum B2 Niveau.
 
 ---
 
 ## Relevant Working Experience
 
-### Full-stack Web Developer
+### Full-stack Web Developer @ kreuzwerker GmbH
 Berlin, october 2012 - april 2017
 
 There was no place for boredom at [kreuzwerker GmbH][xw], as I had to:
@@ -54,31 +54,30 @@ There was no place for boredom at [kreuzwerker GmbH][xw], as I had to:
 - write frontend solutions in `jQuery` / vanilla `javascript` / `sass` - `stylus`;
 - generate static website with `jekyll` / `waffel`.
 
-### Web Developer
+### Web Developer @ Multimedia360
 Rome, october 2011 - september 2012
 
-Web Developer and consultant for [Multimedia360][mm].
-Main tasks were developing `xml/json` webservices for both RIAs and mobile platforms, database design, and some frontend solutions.
+My main tasks at [Multimedia360][mm] were developing `xml/json` webservices for both RIAs and mobile platforms, database design, and some frontend solutions. I wrote a couple of iOS apps too.
 
-### Web Developer
+### Web Developer @ Rome Tor Vergata Univeristy (ISIM_Garage)
 Rome, april 2011 - october 2011
 
-Web Developer at [Rome Tor Vergata Univeristy][tv] - ISIM_Garage. I worked on a rich e-learning platform. My main tasks were software analysis, framework architecture development and interaction design.
+I worked on a rich e-learning platform. My main tasks were software analysis, framework architecture development and interaction design.
 
-### Freelance Web Developer
+### Web Developer, Freelance
 Rome, 2007 - 2011
 
-Worked on various websites and solutions using the `LAMP` stack.
+Worked on various websites and solutions using mainly the `LAMP` stack.
 
 ## Teaching Experience
 
-### Lecturer
+### Lecturer @ Roma Tor Vergata University
 Rome, october 2011 - september 2012
 
 Lecturer for the **Object-oriented Programming** annual classes of [Media Sciences and Technologies course][smc] in the [Maths Department][mat] of [Roma Tor Vergata University][tv]. In the context of the `Java` programming language, I thaught:
 
 - loop and conditional statements;
-- variable and memory allocation;
+- variables and memory allocation;
 - Object-oriented Programming principles (encapsulation, polymorphism, inheritance, composition...);
 - the Swing UI framework;
 - event programming (mouse and keyboard input)
@@ -86,7 +85,7 @@ Lecturer for the **Object-oriented Programming** annual classes of [Media Scienc
 - basic thread programming;
 - filesystem handling and rudiments of raster image processing.
 
-### Tutor
+### Tutor @ Roma Tor Vergata University
 Rome, 2007 - 2010
 
 Assisted the lecturer of the **Object-oriented Programming** annual classes of [Media Sciences and Technologies course][smc] in the [Maths Department][mat] of [Roma Tor Vergata University][tv].
