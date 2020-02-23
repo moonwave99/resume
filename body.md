@@ -4,7 +4,7 @@ On top of knowing how the _World Wide Web_ works:
 
 ### Frontend
 
-- **react** with (typed) **redux** is my weapon of choice now;
+- **react** with (typed) **redux** and tested with **jest** is my weapon of choice now;
 - maintained a lot of **Backbone** apps in the past;
 - didn't like **Angular** much;
 - **jQuery** functional API still owning my 🖤;
@@ -14,7 +14,7 @@ On top of knowing how the _World Wide Web_ works:
 
 - **node.js** adept since almost a decade now;
 - wrote a lot of **PHP** in my formation years;
-- the encounters with **ruby** were very pleasant I have to admit.
+- the scarce encounters with **ruby** were very pleasant I have to admit.
 
 ### Build tools
 
@@ -25,7 +25,7 @@ On top of knowing how the _World Wide Web_ works:
 
 ### Toolchain
 
-- everything `git`: github/gitlab, various workflows, 
+- everything `git`: github/gitlab, various workflows, reviews. Never `blame`d anyone;
 - ticket systems: **Jira**, **Trello**, **Github issues**...
 
 ### Various
@@ -70,6 +70,7 @@ Rome, 2007 - 2011
 Worked on various websites and solutions using mainly the `LAMP` stack.
 
 ---
+<div class="pagebreak"></div>
 
 ## Teaching Experience
 
@@ -81,11 +82,10 @@ Lecturer for the **Object-oriented Programming** annual classes of [Media Scienc
 - loop and conditional statements;
 - variables and memory allocation;
 - Object-oriented Programming principles (encapsulation, polymorphism, inheritance, composition...);
-- the Swing UI framework;
-- event programming (mouse and keyboard input)
-- `Graphic2D` primitives and vectors;
-- basic thread programming;
-- filesystem handling and rudiments of raster image processing.
+- the `Swing` UI framework, components and layouts;
+- event programming (mouse and keyboard input);
+- `Graphics2D` primitives and vectors;
+- basic thread programming, filesystem handling and rudiments of raster image processing.
 
 ### Tutor @ Roma Tor Vergata University
 Rome, 2007 - 2010

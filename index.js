@@ -57,10 +57,11 @@ const output = `
 </head>
 
 <body class="w-100 sans-serif bg-white">
-	<main class="bt b--black-10 black-70 bg-white">
+	<main class="black-70 bg-white">
     <header class="pa3 pa5-ns white bg-dark-blue">
       <div class="mw8">
         ${processOutput(data.header, 'header')}
+        <p class="print f5 lh-copy">Say hi! <strong>hello@diegocaponera.com</strong> | <strong>+49 152 33820041‬</strong></p>
       </div>
     </header>
     <section class="pa3 pa5-ns mw8">
