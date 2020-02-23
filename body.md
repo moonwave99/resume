@@ -42,7 +42,7 @@ On top of knowing how the _World Wide Web_ works:
 
 ---
 
-## Relevant Experience
+## Relevant Working Experience
 
 ### Full-stack Web Developer
 Berlin, october 2012 - april 2017
@@ -53,20 +53,6 @@ There was no place for boredom at [kreuzwerker GmbH][xw], as I had to:
 - write single page applications in `React`, `Angular` and `Backbone`;
 - write frontend solutions in `jQuery` / vanilla `javascript` / `sass` - `stylus`;
 - generate static website with `jekyll` / `waffel`.
-
-### Lecturer
-Rome, october 2011 - september 2012
-
-Lecturer for the Object-oriented Programming annual classes of [Media Sciences and Technologies course][smc] in the [Maths Department][mat] of [Roma Tor Vergata University][tv]. In the context of the `Java` programming language, I thaught:
-
-- loop and conditional statements;
-- variable and memory allocation;
-- Object-oriented Programming principles (encapsulation, polymorphism, inheritance, composition...);
-- the Swing UI framework;
-- event programming (mouse and keyboard input)
-- `Graphic2D` primitives and vectors;
-- basic thread programming;
-- filesystem handling and rudiments of raster image processing.
 
 ### Web Developer
 Rome, october 2011 - september 2012
@@ -83,6 +69,27 @@ Web Developer at [Rome Tor Vergata Univeristy][tv] - ISIM_Garage. I worked on a 
 Rome, 2007 - 2011
 
 Worked on various websites and solutions using the `LAMP` stack.
+
+## Teaching Experience
+
+### Lecturer
+Rome, october 2011 - september 2012
+
+Lecturer for the **Object-oriented Programming** annual classes of [Media Sciences and Technologies course][smc] in the [Maths Department][mat] of [Roma Tor Vergata University][tv]. In the context of the `Java` programming language, I thaught:
+
+- loop and conditional statements;
+- variable and memory allocation;
+- Object-oriented Programming principles (encapsulation, polymorphism, inheritance, composition...);
+- the Swing UI framework;
+- event programming (mouse and keyboard input)
+- `Graphic2D` primitives and vectors;
+- basic thread programming;
+- filesystem handling and rudiments of raster image processing.
+
+### Tutor
+Rome, 2007 - 2010
+
+Assisted the lecturer of the **Object-oriented Programming** annual classes of [Media Sciences and Technologies course][smc] in the [Maths Department][mat] of [Roma Tor Vergata University][tv].
 
 ---
 

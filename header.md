@@ -1,6 +1,6 @@
 # Hello!
 
-I am [Diego][1], I live in **Berlin** and I've done a lot of things web. At the moment I am building the [music player of my dreams][2] in [Electron][3]/[React/Redux][4], and a [tool to help me master guitar scales][5].
+I am [Diego][1], I live in **Berlin** and I've done a lot of things web. At the moment I am building the [music player of my dreams][2] in [Electron][3]/[React/Redux][4], and a [tool to help me master guitar scales][5], as I am devoting most of my time to fulfill my dream of becoming a professional musician 🎸.
 
 Ah, I finally embraced [Typescript][6] and I like it so far.
 
