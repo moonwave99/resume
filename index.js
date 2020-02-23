@@ -7,7 +7,7 @@ const data = {
   body: marked(fs.readFileSync('./body.md', 'utf8'))
 };
 
-function process(html, section) {
+function processOutput(html, section) {
   const $ = cheerio.load(html);
   $('h1').addClass('f1 lh-title fw9 mb3 mt0 pt3 light-blue');
   $('h2').addClass('f2 lh-title black');
@@ -37,7 +37,8 @@ function process(html, section) {
 
 const site = {
   title: 'Diego Caponera - Full Stack Web Developer',
-  footer: '2020 <a class="link blue underline-hover" href="https://www.diegocaponera.com">Diego Caponera</a>.'
+  footer: '2020 <a class="link blue underline-hover" href="https://www.diegocaponera.com">Diego Caponera</a>.',
+  analytics: process.env.ANALYTICS
 };
 
 const output = `
@@ -59,16 +60,24 @@ const output = `
 	<main class="bt b--black-10 black-70 bg-white">
     <header class="pa3 pa5-ns white bg-dark-blue">
       <div class="mw8">
-        ${process(data.header, 'header')}
+        ${processOutput(data.header, 'header')}
       </div>
     </header>
     <section class="pa3 pa5-ns mw8">
-      ${process(data.body, 'body')}
+      ${processOutput(data.body, 'body')}
     </section>
     <footer class="pa3 pa5-ns">
       <p class="f5 lh-copy b">${site.footer}</p>
     </footer>
   </main>
+  <script>
+  (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+  function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+  e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+  e.src='https://www.google-analytics.com/analytics.js';
+  r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+  ga('create','${site.analytics}','auto');ga('send','pageview');
+</script>
 </body>
 </html>
 `;
