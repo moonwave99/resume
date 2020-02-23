@@ -69,6 +69,8 @@ Rome, 2007 - 2011
 
 Worked on various websites and solutions using mainly the `LAMP` stack.
 
+---
+
 ## Teaching Experience
 
 ### Lecturer @ Roma Tor Vergata University
