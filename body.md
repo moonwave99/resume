@@ -76,7 +76,7 @@ Worked on various websites and solutions using mainly the `LAMP` stack.
 ### Lecturer @ Roma Tor Vergata University
 Rome, october 2011 - september 2012
 
-Lecturer for the **Object-oriented Programming** annual classes of [Media Sciences and Technologies course][smc] in the [Maths Department][mat] of [Roma Tor Vergata University][tv]. In the context of the `Java` programming language, I thaught:
+Lecturer for the **Object-oriented Programming** annual classes of [Media Sciences and Technologies course][smc] in the [Maths Department][mat] of [Roma Tor Vergata University][tv]. In the context of the `Java` programming language, I taught:
 
 - loop and conditional statements;
 - variables and memory allocation;
