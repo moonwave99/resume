@@ -1,0 +1,19 @@
+html {
+  font-family: -apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica neue,helvetica,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
+}
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+hr {
+  margin: 72px auto;
+  position: relative;
+  border-top: 1px solid rgba(0,0,0,.5);
+  border-bottom: none;
+  height: 0;
+  width: 200px;
+}

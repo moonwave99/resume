@@ -7,7 +7,11 @@
   "author": "Diego Caponera <diego.caponera@gmail.com>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "start": "node ./index.js"
+  },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
     "marked": "^0.8.0"
   }
 }
