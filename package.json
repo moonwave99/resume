@@ -1,0 +1,13 @@
+{
+  "name": "resume",
+  "version": "0.0.1",
+  "description": "My resume.",
+  "main": "index.js",
+  "repository": "https://github.com/moonwave99/resume",
+  "author": "Diego Caponera <diego.caponera@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "marked": "^0.8.0"
+  }
+}
