@@ -9,7 +9,7 @@ Ah, I finally embraced [Typescript][6] and I like it so far.
 [ [github][gh] / [stackoverflow][so] ]
 
 [1]: https://www.diegocaponera.com
-[2]: https://github.com/moonwave99/playa
+[2]: https://moonwave99.github.io/playa
 [3]: https://www.electronjs.org/
 [4]: https://react-redux.js.org/
 [5]: http://fretboardjs.netlify.com/
