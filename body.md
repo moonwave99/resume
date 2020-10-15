@@ -1,10 +1,8 @@
 ## Skills
 
-On top of knowing how the _World Wide Web_ works:
-
 ### Frontend
 
-- **react** with (typed) **redux** and tested with **jest** is my weapon of choice now;
+- **React** with (typed) **redux** and tested with **jest** is my weapon of choice now;
 - maintained a lot of **Backbone** apps in the past;
 - didn't like **Angular** much;
 - **jQuery** functional API still owning my 🖤;
@@ -25,7 +23,7 @@ On top of knowing how the _World Wide Web_ works:
 
 ### Toolchain
 
-- everything `git`: github/gitlab, various workflows, reviews. Never `blame`d anyone;
+- everything `git`: github/gitlab, various workflows, PR, reviews.
 - ticket systems: **Jira**, **Trello**, **Github issues**...
 
 ### Various
@@ -37,12 +35,17 @@ On top of knowing how the _World Wide Web_ works:
 
 - **Italian**: lingua madre;
 - **Spanish**: también;
-- **English**: very fluent both written and verbally (thanks to [Morrissey][smt]);
+- **English**: very fluent both written and verbally (thanks to [The Smiths][smt]);
 - **German**: bis zum B2 Niveau.
 
 ---
 
 ## Relevant Working Experience
+
+### Full-stack Web Developer, Freelance
+Berlin/Rome, may 2017 - present
+
+Offering various consultancy services, mainly in the `React` / `React Native` / `node.js` realm.
 
 ### Full-stack Web Developer @ kreuzwerker GmbH
 Berlin, october 2012 - april 2017
@@ -70,7 +73,6 @@ Rome, 2007 - 2011
 Worked on various websites and solutions using mainly the `LAMP` stack.
 
 ---
-<div class="pagebreak"></div>
 
 ## Teaching Experience
 
@@ -85,7 +87,7 @@ Lecturer for the **Object-oriented Programming** annual classes of [Media Scienc
 - the `Swing` UI framework, components and layouts;
 - event programming (mouse and keyboard input);
 - `Graphics2D` primitives and vectors;
-- basic thread programming, filesystem handling and rudiments of raster image processing.
+- basic thread programming, filesystem handling and raster image processing.
 
 ### Tutor @ Roma Tor Vergata University
 Rome, 2007 - 2010
@@ -99,9 +101,9 @@ Assisted the lecturer of the **Object-oriented Programming** annual classes of [
 ### Bachelor Degree
 [Roma Tor Vergata University][tv], [Maths Department][mat] - 2006-2011
 
-Bachelor degree in [Media and Communication Sciences][smc]: it provided very good mathematical knowledge (from basic calculus and geometry to _Fourier_ and _Wavelet_ analysis, both theoretical and computational), good physics courses (mainly focused on acoustics), and various programming languages: `C`, `Java`, `PHP`, `Matlab`, `Javascript`, `HTML`/`CSS`).
+Bachelor degree in [Media and Communication Sciences][smc]: it provided very good mathematical knowledge (from basic calculus and geometry to _Fourier_ and _Wavelet_ analysis, both theoretical and computational), physics/acoustics courses and various programming languages: `C`, `Java`, `PHP`, `Matlab`, `Javascript`, `HTML`/`CSS`.
 
-Graduated with _101_ out of _110_ with an essay about an own proposal for a digital audio compression algorithm.
+Graduated with _101_ out of _110_ with a thesis covering a proposal for a digital audio compression algorithm.
 
 ### Secondary School
 [Liceo Classico Ugo Foscolo][alb], Albano Laziale - 1998-2003
