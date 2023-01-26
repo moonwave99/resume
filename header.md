@@ -1,6 +1,6 @@
 # Hello!
 
-I am [Diego Caponera][1], I live in **Berlin** and I've done a lot of things web. At the moment I am building the [music player of my dreams][2] in [Electron][3]/[React/Redux][4], and a [tool to help me master guitar scales][5]. My biggest passion is to play and write music 🎸🎹🧑‍🎤.
+I am [Diego Caponera][1], I live in **Hamburg** and I've done a lot of things web. At the moment I am teaching full-stack web development at [SPICED Academy][sa]. Whenever I have time I keep on building the [music player of my dreams][2] in [Electron][3]/[React/Redux][4], and a [tool to help me master guitar scales][5]. My biggest passion is to play and write music 🎸🎹🧑‍🎤.
 
 Ah, I finally embraced [Typescript][6] and I like it so far.
 
@@ -16,3 +16,4 @@ Ah, I finally embraced [Typescript][6] and I like it so far.
 [6]: https://www.typescriptlang.org/
 [so]: https://stackoverflow.com/users/1073758/moonwave99
 [gh]: https://github.com/moonwave99
+[sa]: https://spiced-academy.com
