@@ -2,34 +2,27 @@
 
 ### Frontend
 
-- **React** with (typed) **redux** and tested with **jest** is my weapon of choice now;
-- maintained a lot of **Backbone** apps in the past;
-- didn't like **Angular** much;
-- **jQuery** functional API still owning my 🖤;
-- **CSS**, preprocessed in `SASS`/`Less`/`stylus`.
+- **React** with (typed) **zustand** and tested with **tesing library**;
+- **vanilla JS** when you need to keep it simple;
+- **Leaflet** / **Mapbox** / **d3.js**;
+- **Backbone** / **Angular** / **jQuery**;
+- **CSS** (flexbox/grid), preprocessed in `SASS`/`stylus`.
 
 ### Backend
 
-- **node.js** adept since almost a decade now;
-- wrote a lot of **PHP** in my formation years;
-- the scarce encounters with **ruby** were very pleasant I have to admit.
+- **node.js** (**express**) adept since more than a decade;
+- **postgres** / **MySQL** / **SQLite** / **MongoDB**;
+- wrote a lot of **PHP** in my formation years with the LAMP stack.
 
-### Build tools
+### Build tools / Various
 
-- `webpack` nowadays;
-- long time romance with `brunch.io`;
-- `gulp` and `grunt` ring more than a bell of course;
-- `babel`/`rollup`/`ES modules`...been through that as well.
-
-### Toolchain
-
-- everything `git`: github/gitlab, various workflows, PR, reviews.
+- `vite.js`/`webpack`;
+- `babel`/`rollup`/`ES modules`/`grunt`/`gulp`.
+- everything `git`: github/gitlab, various workflows, PR, (constructive) reviews.
 - ticket systems: **Jira**, **Trello**, **Github issues**...
-
-### Various
-
+- CI systems - github actions, Vercel, Render, Heroku...
 - **electron.js**;
-- static website generation (proud of my [waffel][wfl]).
+- static website generation (proud of my [waffel][wfl] and [goffre][gfr]).
 
 ### (Human) Languages
 
@@ -46,7 +39,7 @@
 
 Hamburg, january 2021 - present
 
-Guiding students and taking care of all the things Full Stack at [SPICED Academy][sa] Hamburg.
+Guiding students and taking care of all the things Full Stack at [SPICED Academy][sa] Hamburg: preparing the daily lectures, supporting students with assignments and personal projects, sharing with them working experience and industry patterns and standards.
 
 ### Full-stack Web Developer, Freelance
 
@@ -135,3 +128,4 @@ Graduated with _100_ out of _100_.
 [alb]: https://liceougofoscolo.edu.it/
 [smt]: https://www.diegocaponera.com/the-smiths-complete-lyrics
 [wfl]: https://moonwave99.github.io/waffel/
+[gfr]: https://moonwave99.github.io/goffre/
